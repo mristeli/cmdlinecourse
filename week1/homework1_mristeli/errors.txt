@@ -1,0 +1,2 @@
+sed: sed: 1: "s/a/b": unterminated substitute in regular expression1: "s/c/d": unterminated substitute in regular expression
+
